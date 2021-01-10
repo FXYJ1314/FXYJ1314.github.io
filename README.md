@@ -11,3 +11,4 @@ Hello MarkDown!
 git add -A
 git commit -m "本次提交的修改的备注"
 git push origin main
+git pull
